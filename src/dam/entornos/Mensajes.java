@@ -15,7 +15,7 @@ public class Mensajes {
 		mensajeProfesor();
 		//
 		// Pon la llamada a tu método a partir de aqui
-			
+		alumnaFila1PC1();	
 		
 	}
 	
@@ -29,8 +29,8 @@ public class Mensajes {
 	}	
 	
 	// Pon tu método a partir de aqui
-	
-	
-	
-	
+	private static void alumnaFila1PC1() {
+		System.out.println("Hola, soy Beatriz");
+		System.out.println("Os deseo a todos un feliz año 2020 y que entreis con buen pie el nuevo año");
+	}
 }
