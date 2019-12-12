@@ -19,7 +19,7 @@ Os deseo un feliz año 2020 !!!
 
 
 #### AlumnoFila1PC1
-
+Os deseo a todos un feliz año 2020 y que entreis con buen pie el nuevo año
 
 #### AlumnoFila1PC2
 
